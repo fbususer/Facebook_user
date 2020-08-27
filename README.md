@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width"/>
-<title> Facebook Authentication</title>
 <Link href="style.css" rel="stylesheet"/>
 </head>
 <body>
